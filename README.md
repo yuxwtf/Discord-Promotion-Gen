@@ -15,7 +15,7 @@
     <img src="https://i.pinimg.com/originals/3e/a0/72/3ea0727d1d4b501a7143f09142b6d835.jpg" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">Discord - Mass Thread Creator</h3>
+  <h2 align="center">Discord - Promotions Generator</h3>
 
   <p align="center">
     A Nitro promotion generator that use only requests.
