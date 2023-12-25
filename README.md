@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/yuxwtf/Discord-Promotion-Gen">
-    <img src="https://i.pinimg.com/originals/3e/a0/72/3ea0727d1d4b501a7143f09142b6d835.jpg" alt="Logo" width="120" height="120">
+    <img src="https://www.digiseller.ru/preview/934512/p1_3069535_3c016f00.jpg" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">Discord - Promotions Generator</h3>
