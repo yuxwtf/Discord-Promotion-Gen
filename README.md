@@ -41,7 +41,7 @@
 
 ### 🔥 Features
 * Easy to use
-* Proxy support (http/socks4/socks5) [ Reach ~750 gen/ip)
+* Proxy support (http/socks4/socks5) [ Reach ~2k gen/ip)
 
 ---------------------------------------
 
