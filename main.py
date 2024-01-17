@@ -1,5 +1,5 @@
 import colorama,requests,threading,os,random,time
-
+import secrets
 
 colorama.init()
 use_proxies = False # proxyless by default
@@ -37,8 +37,10 @@ class Gen:
         headers = {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
         }
+        pid = secrets.token_hex(32)
+        print(f' (*) PUID: {pid}')
         payload = {
-            "partnerUserId": "7bb74f47de06947fca2cf6ff4036557360c12eb0d70d70d74f0fa9e0f218cd98"
+            "partnerUserId": pid
         }
         req = self.session.post(self.root + "direct-fulfillment", json=payload, headers=headers)
         # print(req.status_code,req.text)
